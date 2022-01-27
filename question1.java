@@ -3,12 +3,6 @@ package Project;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author Ahmet Furkan AKDAMAR - 190316068
- *         Tuğçe DURMAZ - 190316051
- *         Süleyman Burak GÜL - 190316034
- */
 
 public class question1 {
     public static ArrayList<Long> number = new ArrayList<>();
