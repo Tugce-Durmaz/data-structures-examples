@@ -2,13 +2,6 @@ package Project;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-/**
- *
- * @author Tuğçe DURMAZ - 190316051
- *         Süleyman Burak GÜL - 190316034
- *         Ahmet Furkan AKDAMAR - 190316068
- */
-
 
 public class question5 {
     public static TreeMap<String,Integer> myMap = new TreeMap<>();
