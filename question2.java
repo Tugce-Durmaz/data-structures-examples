@@ -2,12 +2,6 @@ package Project;
 
 import java.util.*;
 
-/**
- *
- * @author Ahmet Furkan AKDAMAR - 190316068
- *         Tuğçe DURMAZ - 190316051
- *         Süleyman Burak GÜL - 190316034
- */
 
 public class question2 {
     public static ArrayList <Integer> list1 = new ArrayList<>();
