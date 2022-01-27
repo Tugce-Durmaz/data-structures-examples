@@ -11,13 +11,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- *
- * @author Süleyman Burak GÜL - 190316034
- *         Tuğçe DURMAZ - 190316051
- *         Ahmet Furkan AKDAMAR - 190316068
- */
-
 
 public class question4 {
     public static HashSet<String> words = new HashSet<String>();
